@@ -1,4 +1,3 @@
-import json
 import mxnet as mx
 from mxnet.gluon.data import DataLoader
 from mxnet.gluon.model_zoo import vision as models
